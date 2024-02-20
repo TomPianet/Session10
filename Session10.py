@@ -4,7 +4,7 @@ fd = open(file_name, "w")
 while True:
     line = input("Enter a line ( or just press Enter to quit) : ")
     if line:
-        fd.write("Hello, World!")
+        fd.write(line + "\n")
     else:
         break
 
