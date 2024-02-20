@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db404009-e5ed-4002-83b0-5da34100d412" name="Changes" comment="ee" />
+    <list default="true" id="db404009-e5ed-4002-83b0-5da34100d412" name="Changes" comment="ee">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read-from-file.py" beforeDir="false" afterPath="$PROJECT_DIR$/read-from-file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/x-file.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Session10.executor": "Run",
+    "Python.read-from-file.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -61,7 +66,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708420090921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ee">
+      <option name="closed" value="true" />
+      <created>1708420236463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708420236463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ee">
+      <option name="closed" value="true" />
+      <created>1708420398942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708420398942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ee">
+      <option name="closed" value="true" />
+      <created>1708420802484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708420802484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
