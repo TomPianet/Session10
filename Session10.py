@@ -9,4 +9,3 @@ while True:
         break
 
 fd.close()
-
