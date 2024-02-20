@@ -6,12 +6,12 @@ def greet():
     print(f"hello, {name}")
 
 
-greet("Bogdan")
-greet("Jhon")
-greet("Maria")
+#greet("Bogdan")
+#greet("Jhon")
+#greet("Maria")
 
 
-def special_op(x, y, z):
+def special_op(x=10, y=10, z=10):
     """
 
     :param x: int or float
@@ -23,4 +23,6 @@ def special_op(x, y, z):
 
 result = special_op(2, 3, 4)
 print(result)
+print(special_op(2, 3))
+
 
